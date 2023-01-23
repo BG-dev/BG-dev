@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nikita Azizov 
 ===========================
-Full Stack Developer
+Full-Stack Developer
 --------------------  
 A fourth-year student is ready to consider a position as a Full stack developer. Able to work on a tight schedule, creative, hardworking and smart.  
 * 🌍  I'm based in Minsk, Belarus 
