@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================
 Full-Stack Developer
 --------------------  
-A fourth-year student is ready to consider a position as a Full stack developer. Able to work on a tight schedule, creative, hardworking and smart.  
+I'm ready to consider a position as a Full stack developer. Able to work on a tight schedule, creative, hardworking and smart.  
 * 🌍  I'm based in Minsk, Belarus 
 * ✉️  You can contact me at [nik.azizoff2016@gmail.com](mailto:nik.azizoff2016@gmail.com)
 
