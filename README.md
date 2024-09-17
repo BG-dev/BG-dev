@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================
 Full-Stack Developer
 --------------------  
-I'm ready to consider a position as a Full stack developer. Able to work on a tight schedule, creative, hardworking and smart.  
+I am a full-stack developer with experience in web development. My core skills include React, Next.js, Express.js, as well as databases like PostgreSQL and MongoDB. I am passionate about creating intuitive and innovative web applications. My goal is to write high-quality code that delivers responsiveness, scalability, and security. I constantly strive to learn new technologies and approaches to stay up-to-date and ensure continuous growth in my projects. 
 * 🌍  I'm based in Minsk, Belarus 
 * ✉️  You can contact me at [nik.azizoff2016@gmail.com](mailto:nik.azizoff2016@gmail.com)
 
